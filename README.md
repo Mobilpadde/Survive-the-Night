@@ -11,7 +11,7 @@ One on the most simple zombie survival games EVER! (With super easy controls too
 * Press `[ENTER]` to chat (Or rather to focus on the textbox).
 * Click random on your keyboard to type some message look-a-like-thingie.
 * Press `[ENTER]` again to send your awesome newborn message.
-* Or do an `[ESC]` to cancel every single awesome character in the textbox, and return to the game.
+* Or do an `[ESC]` to cancel every single awesome character in the textbox, and return to your game.
 
 
 
@@ -22,13 +22,13 @@ One on the most simple zombie survival games EVER! (With super easy controls too
 * `A green man whom's brain is trying to get out`?
 	* You should try to keep away from those, they're evil evil creators called `Zombies`.
 * `Red'n'White pill`?
-	* Although it look a bit like posion, it's not! You should eat these, as soon as you find them! As they help you survive.
+	* Although it look a bit like posion, it's not! You should eat these, as soon as you find them! They'll help you survive.
 * `Big blue square with random text in it`?
 	* If you're about to die, you should go here as fast as possible! It'll help you regenerate your life.
 
 
 
-## I have some weird colored sweatband on my forehead? ##
+## Ohh, and what about the weird sweatband on my forehead? ##
 This both indicates your life, and your color...
 
 Ohh and btw, it's not a sweatband, it's your actual forehead!
