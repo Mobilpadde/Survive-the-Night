@@ -30,7 +30,8 @@ One on the most simple zombie survival games EVER! (With super easy controls too
 
 ## I have some weird colored sweatband on my forehead? ##
 This both indicates your life, and your color...
-And btw, it's not a sweatband, it's your forehead!
+
+Ohh and btw, it's not a sweatband, it's your actual forehead!
 
 
 
