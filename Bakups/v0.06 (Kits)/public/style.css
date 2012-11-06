@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+body{
+	font: 12px/14px sans-serif;
+}
+#wapper{
+	width: 700px;
+	margin: 0 auto;
+}
+select{
+	position: absolute;
+	top: 500px;
+}
+canvas{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+}
+ul#users{
+	display: inline-block;
+	max-width: 197px;
+	max-height: 500px;
+	list-style-type: none;
+	word-wrap: break-word;
+}
+ul#users li.dead{
+	text-decoration: line-through;
+}

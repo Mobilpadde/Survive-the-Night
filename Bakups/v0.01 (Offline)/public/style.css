@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+body{
+	font: 12px/14px sans-serif;
+}
+#wapper{
+	width: 700px;
+	margin: 0 auto;
+}
+canvas{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+}
+ul#users{
+	display: inline-block;
+	max-width: 197px;
+	max-height: 500px;
+	list-style-type: none;
+	word-wrap: break-word;
+}
+/*ul#users li:nth-child(1){
+	color: rgb(200, 0, 0);
+}
+ul#users li:nth-child(2){
+	color: rgb(0, 200, 0);
+}
+ul#users li:nth-child(3){
+	color: rgb(0, 0, 200);
+}
+ul#users li:nth-child(4){
+	color: rgb(200, 200, 0);
+}
+ul#users li:nth-child(5){
+	color: rgb(200, 0, 200);
+}*/
+ul#users li.dead{
+	text-decoration: line-through;
+}

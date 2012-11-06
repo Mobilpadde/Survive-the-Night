@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+body{
+	font: 12px/14px sans-serif;
+}
+#wapper{
+	width: 700px;
+	margin: 0 auto;
+}
+select{
+	position: absolute;
+	top: 500px;
+}
+canvas{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+}
+ul#users{
+	display: inline-block;
+	max-width: 197px;
+	max-height: 500px;
+	list-style-type: none;
+	word-wrap: break-word;
+	overflow: hidden;
+}
+ul#users li.dead{
+	text-decoration: line-through;
+}
+div#chat{
+	width: 700px;
+	height: 200px;
+	border: 1px solid #333;
+	position: relative;
+	overflow-x: scroll;
+}
+div#chat ul{
+	list-style-type: none;
+}
+input#textbox{
+	width: 696px;
+	height: 20px;
+	-webkit-appearance: none;
+	border: 1px solid #333;
+	border-top: none;
+	padding: 0 2px;
+}
