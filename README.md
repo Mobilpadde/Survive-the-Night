@@ -15,7 +15,7 @@ One on the most simple zombie survival games EVER! (With super easy controls too
 
 
 
-## Thanks dude! But I kinda need some info about the game too? ##
+## Thanks dude! But I kinda need some game info too? ##
 
 * `Human look-a-like`?
 	* Well, this is either you, or the other players... (It's not always easy to tell the difference)
