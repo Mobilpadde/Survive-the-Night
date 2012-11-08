@@ -40,3 +40,23 @@ Ohh and btw, it's not a sweatband, it's your actual forehead!
 Well, that's the tricky part, and most people tend to be every confused in this situation.
 But fear not!
 If you die, just wait about 10 seconds, and you'll feel as good as a baby hamster being fed by a rooster!
+
+
+## ##
+
+## Backups? ##
+
+So the backups is actually older versions of the game (Big surprise)...
+
+* `v0.01` A really simple version of the game, only offline, zombies and you.
+* `v0.02` Zombies are being handled by the server, but the character is still not visible to other (So offline character)
+* `v0.03` A simple version of the game, everything online
+* `v0.04` The safezone if implemented
+* `v0.05` Regeneration in the safezone
+* `v0.06` Medickits spawn randomly
+* `v0.07` A simple chat (Current version)
+
+
+## ##
+
+Btw, my old ip is in the documents, just replace it with your own (Mine isn't usefull anymore, as I've changed ip since that)
